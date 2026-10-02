@@ -1,0 +1,1 @@
+Pon aquí tu video del banner (hero.mp4) y descomenta el bloque <video> en index.html (sección HERO).
