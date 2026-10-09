@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Reemplaza TU-USUARIO y TU-REPOSITORIO por los tuyos
+Sitemap: https://TU-USUARIO.github.io/TU-REPOSITORIO/sitemap.xml
